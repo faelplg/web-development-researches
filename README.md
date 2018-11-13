@@ -1,9 +1,9 @@
 research                   | path                    | version | updated at
 ---------------------------|-------------------------|---------|-------------
-**META**                   | master                  | 0.0.1   | 14/05/2018
+**META**                   | master                  | 0.0.2   | 13/11/2018
 
-# Front-End Researches #
+# Web Researches #
 
-The goal of this project is to bring together research and applications within front-end development, as well as seeking the best user experiences available at the moment.
+Compilation of the main studies on web development introduced by [frontlab](https://faelplg.github.io/frontlab/).
 
-The research project is still in structure conception phase. Stay tuned.
+The goal is to bring together researches and best-practices about web development and build a Pyramid of Web Experience. 
