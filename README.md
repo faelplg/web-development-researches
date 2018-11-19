@@ -1,9 +1,10 @@
-research                   | path                    | version | updated at
----------------------------|-------------------------|---------|-------------
-**META**                   | master                  | 0.0.2   | 13/11/2018
+researches                 | version | updated at  | links
+---------------------------|---------|-------------|------
+**META**                   | 0.0.2   | 13/11/2018  | N/A
+Software Deployment        | 0.0.1   | 19/11/2018  | [Link](X)
 
-# Web Researches #
+# Web Development Researches
 
-Compilation of the main studies on web development introduced by [frontlab](https://faelplg.github.io/frontlab/).
+Compilation of the main studies on web development and user experience introduced by [frontlab](https://faelplg.github.io/frontlab/).
 
-The goal is to bring together researches and best-practices about web development and build a Pyramid of Web Experience. 
+This research was motivated by the need to create a theoretical basis for the study of the user experience on the web. This study aims to provide a knowledge framework that describes the basic areas of design, development and web architecture to work with user experience.
