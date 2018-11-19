@@ -1,7 +1,7 @@
 researches                 | version | updated at  | links
 ---------------------------|---------|-------------|------
 **META**                   | 0.0.2   | 13/11/2018  | N/A
-Software Deployment        | 0.0.1   | 19/11/2018  | [Link](X)
+Software Deployment        | 0.0.1   | 19/11/2018  | [Link](https://github.com/faelplg/web-development-researches/tree/master/environment#techopedia)
 
 # Web Development Researches
 
