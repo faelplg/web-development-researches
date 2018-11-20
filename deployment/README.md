@@ -1,13 +1,12 @@
-researches                 | version | updated at  | links
----------------------------|---------|-------------|------
-META                       | 0.0.2   | 19/11/2018  | [Link](https://github.com/faelplg/web-development-researches)
-**Software Deployment**    | 0.0.1   | 19/11/2018  | --
-
 # Software Deployment
 
-Software deployment is a set of procedures which allows an application to be available for management, testing, and use. Its complexity will **depend directly on the design requirements and system architecture**. Despite this, there is a certain convention that is interesting to be understood.
+Software deployment is a set of procedures which allows an application to be available for management, testing, and use.
 
-This convention divides software deployment into three environments or structures:
+\# | research                 | version | updated at  | link
+---|--------------------------|---------|-------------|------
+02 | **Software Deployment**  | 0.0.1   | 19/11/2018  | [Link](https://github.com/faelplg/web-development-researches/tree/master/deployment)
+
+Its complexity will **depend directly on the design requirements and system architecture**. Despite this, there is a certain convention that is interesting to be understood. This convention divides software deployment into three environments or structures:
 
 > An environment or tier is a computer system in which a computer program or software component is deployed and executed. In simple cases, such as developing and immediately executing a program on the same machine, there may be a single environment, but in industrial use the development environment (where changes are originally made) and production environment (what end users use) are separated; often with several stages in between.
 [[1]](#wikipedia)
