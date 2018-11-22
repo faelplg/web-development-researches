@@ -1,10 +1,11 @@
+\# | research                 | version | updated at | github | changelog |
+---|--------------------------|---------|------------|--------|-----------|
+02 | **Software Deployment**  | 0.0.1   | 19/11/2018 | [Link](https://github.com/faelplg/web-development-researches/tree/master/deployment) | [Link](https://github.com/faelplg/web-development-researches/blob/master/deployment/CHANGELOG.md) |
+
 # Software Deployment
 
 Software deployment is a set of procedures which allows an application to be available for management, testing, and use.
 
-\# | research                 | version | updated at  | link
----|--------------------------|---------|-------------|------
-02 | **Software Deployment**  | 0.0.1   | 19/11/2018  | [Link](https://github.com/faelplg/web-development-researches/tree/master/deployment)
 
 Its complexity will **depend directly on the design requirements and system architecture**. Despite this, there is a certain convention that is interesting to be understood. This convention divides software deployment into three environments or structures:
 
