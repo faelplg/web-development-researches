@@ -1,8 +1,8 @@
-[Home](https://github.com/faelplg/web-development-researches) | Software Deployment
+[Home](https://github.com/faelplg/web-development-researches) | Software Engineering | Software Deployment
 
-\# | research                 | version | updated at | github | changelog |
----|--------------------------|---------|------------|--------|-----------|
-02 | **Software Deployment**  | 0.0.2   | 23/09/2019 | [Link](https://github.com/faelplg/web-development-researches/tree/master/deployment) | [Link](https://github.com/faelplg/web-development-researches/blob/master/deployment/CHANGELOG.md) |
+\#  | research                 | version | updated at | github | changelog |
+----|--------------------------|---------|------------|--------|-----------|
+3.1 | **Software Deployment**  | 0.0.2   | 23/09/2019 | [Link](https://github.com/faelplg/web-development-researches/tree/master/deployment) | [Link](https://github.com/faelplg/web-development-researches/blob/master/deployment/CHANGELOG.md) |
 
 # Software Deployment
 

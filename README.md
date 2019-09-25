@@ -1,7 +1,6 @@
-\# | researches                 | version | updated at  | github | changelog |
----|----------------------------|---------|-------------|--------|-----------|
--- | _**meta**_                 | 0.0.3   | 23/09/2019  | [Link](https://github.com/faelplg/web-development-researches) | [Link](https://github.com/faelplg/web-development-researches/blob/master/CHANGELOG.md) |
-02 | Software Deployment        | 0.0.2   | 23/09/2019  | [Link](https://github.com/faelplg/web-development-researches/tree/master/deployment) | [Link](https://github.com/faelplg/web-development-researches/blob/master/deployment/CHANGELOG.md)
+ version | updated at  | github | changelog |
+---------|-------------|--------|-----------|
+ 0.0.3   | 23/09/2019  | [Link](https://github.com/faelplg/web-development-researches) | [Link](https://github.com/faelplg/web-development-researches/blob/master/CHANGELOG.md) |
 
 # Web Development Researches
 
@@ -18,4 +17,4 @@ This research is motivated by the need to create a theoretical basis for the stu
 2. Fundamentals
 
 3. Software Engineering / Front End Engineering
- * [Software Deployment](https://github.com/faelplg/web-development-researches/tree/master/deployment)
+* [Software Deployment](https://github.com/faelplg/web-development-researches/tree/master/deployment)
