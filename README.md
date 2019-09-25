@@ -16,5 +16,4 @@ This research is motivated by the need to create a theoretical basis for the stu
 
 2. Fundamentals
 
-3. Software Engineering / Front End Engineering
-* [Software Deployment](https://github.com/faelplg/web-development-researches/tree/master/deployment)
+3. [Software Engineering / Front End Engineering](https://github.com/faelplg/web-development-researches/tree/master/engineering)
